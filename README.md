@@ -6,11 +6,11 @@ To run the model kindly follow the steps.
 4. If for some reason the simulation does not start, kindly stop and start the program.
 
 Debugging - wont be necessary but just incase
-- if the simulation does not run, install the plugin "Simscape Multibody Contact Forces Library" and add to path
+- if the simulation does not run, install the plugin <a href="https://www.mathworks.com/matlabcentral/fileexchange/47417-simscape-multibody-contact-forces-library">Simscape Multibody Contact Forces Library</a> and add to path
 
 <a href="http://www.youtube.com/watch?feature=player_embedded&v=P9DKjQvbcVY
 " target="_blank"><img src="http://img.youtube.com/vi/P9DKjQvbcVY/0.jpg" 
 alt="Stewart Platform for Object Balancing" width="240" height="180" border="10" /></a>
 
 Incase of any issues, kindly contact:
-Siddharth Jain tellsiddh@asu.edu
+Tabsheer Askari taskari@asu.edu
